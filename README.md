@@ -23,7 +23,7 @@ Alcohol-related liver disease emerges as the predominant cause of death, account
 
 ## Age-specific risk factors and tailored interventions:
 
-Individuals in their Middle Ages (40s to 60s) appear to be at the highest risk of alcohol-related deaths, likely due to prolonged exposure to excessive alcohol consumption. However, there is also a concerning trend of alcohol-related deaths among younger age groups, necessitating tailored interventions such as educational campaigns targeting youth and targeted support services for middle-aged adults.
+Individuals within the Ages of (40s to 60s) appear to be at the highest risk of alcohol-related deaths, likely due to prolonged exposure to excessive alcohol consumption. However, there is also a concerning trend of alcohol-related deaths among younger age groups, necessitating tailored interventions such as educational campaigns targeting youth and targeted support services for middle-aged adults.
 
 These insights will serve as a foundation for devising evidence-based interventions aimed at reducing alcohol-related deaths and improving public health outcomes across the UK.
 
